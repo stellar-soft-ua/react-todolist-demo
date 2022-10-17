@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a todolist in sync with localStorage.
+The project used typescript as the main development language, the standard useState for state management, React Hook Form to work with the form and material UI as a main UI library.
 
 ## Available Scripts
 
